@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeyvidLucas-DEV&show_icons=true&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidLucas-DEV&show_icons=true&theme=radical)](https://github.com/DeyvidLucas-DEV/github-readme-stat)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeyvidLucas-DEV&show_icons=true&theme=radical)](https://github.com/DeyvidLucas-DEV/github-readme-stats)
 
 - 🌱 Estou estudando JavaScript/DOM
 - 💬 Contato: deyvidlucas_026@outlook.com
