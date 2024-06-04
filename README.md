@@ -1,5 +1,5 @@
 # 💫 Sobre:
-🔭 Atualmente atuo como Desenvolvedor Back-End !<br>🌱 Atualmente estou cursando Ciência da Computação<br><br>💬 Tirem suas duvidas pelo email:<br> deyvidlucas_026@outlook.com<br>⚡ Sou louco por Banco de Dados!
+🔭 Atualmente atuo como Desenvolvedor Apex (Salesforce) !<br>🌱 Atualmente estou cursando Ciência da Computação<br><br>💬 Tirem suas duvidas pelo email:<br> deyvidlucas_026@outlook.com<br>⚡ Sou louco por Banco de Dados!
 
 
 # 💻 Tecnologias:
